@@ -96,6 +96,25 @@
             }
         },
         {
+            "Key": "05f9b82c-6a8e-4a79-8cbb-d927ec7116c8",
+            "Value": {
+                "id": "cf0122e9-977a-40b8-b04d-94a45405c9ee",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_tile_terrain\/spr_tile_terrain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0688fc73-2e6a-454b-b599-5e8549bb4251",
             "Value": {
                 "id": "3738ce3f-3c76-4704-9715-7ae92dc0cb2a",
@@ -153,6 +172,25 @@
             }
         },
         {
+            "Key": "0fa09bfc-b8dd-4a62-a836-cb4540ee35ee",
+            "Value": {
+                "id": "e4567779-8695-4b02-9df4-ae5ac911c6f0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tile_cottage\/tile_cottage.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "1dcb6b6b-f580-4950-a407-9048df6ad4a8",
             "Value": {
                 "id": "6d7ce82c-62d3-4032-b296-1bd660714cbc",
@@ -188,6 +226,25 @@
                 ],
                 "resourcePath": "views\/1ef4c81a-7bdd-4fb7-ac90-4cc4431c937d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1fb156cf-c246-4ae4-aa60-a1909eaf572e",
+            "Value": {
+                "id": "da4e3fdd-775a-45f5-bbb2-e87f30155dd8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/camera\/camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -908,7 +965,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/rm_0\/rm_0.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -970,6 +1027,25 @@
             }
         },
         {
+            "Key": "c669cbde-2adc-4e9f-ac0a-dffe9e9ae199",
+            "Value": {
+                "id": "d0000c9e-6892-4a0c-a064-2afab18e93c0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tile_terrain\/tile_terrain.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "e06b58ac-f732-431f-8c4f-10a47e9e3299",
@@ -1024,6 +1100,25 @@
                 ],
                 "resourcePath": "views\/d8748a7d-9964-447d-9995-283c8e370a10.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "da018fb4-cdb2-446a-be71-3af151ecc235",
+            "Value": {
+                "id": "9bb8d66d-f9a8-4176-b197-6e1bea9056a6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_tile_cottage\/spr_tile_cottage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
